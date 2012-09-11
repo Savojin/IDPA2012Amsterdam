@@ -1,0 +1,19 @@
+\contentsline {part}{I\hspace {1em}Vorwort}{2}{part.1}
+\contentsline {part}{II\hspace {1em}Abstract}{3}{part.2}
+\contentsline {part}{III\hspace {1em}Einleitung}{4}{part.3}
+\contentsline {part}{IV\hspace {1em}Hauptteil}{5}{part.4}
+\contentsline {section}{\numberline {1}Gliederung}{5}{section.1}
+\contentsline {section}{\numberline {2}Sprache}{5}{section.2}
+\contentsline {section}{\numberline {3}Zitat}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Beispiel 1}{6}{subsection.3.1}
+\contentsline {section}{\numberline {4}Fussnoten}{6}{section.4}
+\contentsline {section}{\numberline {5}Gestaltung}{6}{section.5}
+\contentsline {section}{\numberline {6}Umfang}{6}{section.6}
+\contentsline {part}{V\hspace {1em}Schlusswort}{7}{part.5}
+\contentsline {part}{VI\hspace {1em}Glossar}{8}{part.6}
+\contentsline {part}{VII\hspace {1em}Abkuerzungen}{9}{part.7}
+\contentsline {part}{VIII\hspace {1em}Quellen}{10}{part.8}
+\contentsline {part}{IX\hspace {1em}Anhang}{11}{part.9}
+\contentsline {part}{X\hspace {1em}Reflexion}{12}{part.10}
+\contentsline {part}{XI\hspace {1em}Deklaration}{13}{part.11}
+\contentsline {section}{\numberline {7}Beispiel}{13}{section.7}
