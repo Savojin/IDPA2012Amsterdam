@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.15)  1 DEC 2012 11:26
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.15)  8 DEC 2012 15:36
 entering extended mode
-**document.tex
+**document.tex document.tex
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
@@ -481,7 +481,26 @@ LaTeX Info: Redefining \] on input line 2667.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2009/06/22 v3.00
 )
-No file document.aux.
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.aux"
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\titelblatt.aux
+") ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\vorwort.aux
+") ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\abstract.au
+x")
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\einleitung.aux
+")
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\hauptteil.aux"
+)
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\schlusswort.au
+x") ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\glossar.au
+x")
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\abkuerzungen.a
+ux")
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\quellen.aux")
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\anhang.aux")
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\reflexion.aux"
+)
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\deklaration.au
+x"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
@@ -496,7 +515,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count111
 \scratchdimen=\dimen118
@@ -523,10 +542,12 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 15.
 LaTeX Info: Redefining \pageref on input line 15.
 LaTeX Info: Redefining \nameref on input line 15.
-\@outlinefile=\write3
 
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.out")
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.out")
+\@outlinefile=\write3
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\titelblatt.tex
-" <titelbild.jpg, id=3, 127.76303pt x 85.17535pt>
+" <titelbild.jpg, id=123, 127.76303pt x 85.17535pt>
 File: titelbild.jpg Graphic file (type jpg)
  <use titelbild.jpg>
 Package pdftex.def Info: titelbild.jpg used on input line 17.
@@ -548,36 +569,38 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 {C:/Users/Claudia Saxer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/
 Users/Claudia Saxer/git/IDPA2012Amsterdam/IDPA2012_Document/titelbild.jpg>])
-\tf@toc=\write4
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.toc"p
+dfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 \include{vorwort}
-                       [1
+l.25 ...{part}{IX\hspace {1em}Glossar}{21}{part.9}
+                                                   [1
 
-]
+])
+\tf@toc=\write4
+ [2]
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\vorwort.tex")
-[2
+[3
 
 ]
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\abstract.tex")
-[3
+[4
 
 
 ]
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\einleitung.tex
-") [4
+") [5
 
 
 ]
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\hauptteil.tex"
-[5
+[6
 
 
-]) [6]
+] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]) [19]
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\schlusswort.te
-x") [7
+x") [20
 
 
 ]
@@ -587,28 +610,28 @@ Overfull \hbox (2.75723pt too wide) in paragraph at lines 2--24
 -tisch ge-ord-net. Das Glossar
  []
 
-[8
+[21
 
 
 ]
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\abkuerzungen.t
-ex") [9
+ex") [22
 
 
 ]
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\quellen.tex"
 No file document.bbl.
-) [10
+) [23
 
 
 ]
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\anhang.tex")
-[11
+[24
 
 
 ]
 ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\reflexion.tex"
-) [12
+) [25
 
 
 ]
@@ -624,7 +647,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--29
 
  []
 
-[13
+[26
 
 
 ]
@@ -653,37 +676,31 @@ ux")
 x"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 31.
+Package rerunfilecheck Info: File `document.out' has not changed.
+(rerunfilecheck)             Checksum: 92EC20CA392C22D426D01FA3506EC4F3;1623.
 
-
-Package rerunfilecheck Warning: File `document.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `document.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  6FA81BC3CDFA4274FF635A5F18D91881;916.
 
 LaTeX Warning: There were undefined references.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 31.
  ) 
 Here is how much of TeX's memory you used:
- 6319 strings out of 494045
- 91429 string characters out of 3145944
- 176256 words of memory out of 3000000
- 9459 multiletter control sequences out of 15000+200000
+ 6415 strings out of 494045
+ 94464 string characters out of 3145944
+ 176337 words of memory out of 3000000
+ 9502 multiletter control sequences out of 15000+200000
  9014 words of font info for 34 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 29i,4n,30p,793b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,4n,30p,524b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on document.pdf (14 pages, 388242 bytes).
+Output written on document.pdf (27 pages, 417434 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 308 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
