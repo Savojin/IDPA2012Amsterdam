@@ -1,5 +1,0 @@
-\select@language {ngerman}
-\contentsline {part}{I\hspace {1em}Umschreibung}{2}{part.1}
-\contentsline {part}{II\hspace {1em}Quellen}{3}{part.2}
-\contentsline {part}{III\hspace {1em}Projektplan}{5}{part.3}
-\contentsline {part}{IV\hspace {1em}IDPA - Tagebuch}{6}{part.4}
