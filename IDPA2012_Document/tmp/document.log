@@ -1,21 +1,22 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.15)  1 FEB 2013 17:05
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.24)  5 FEB 2013 23:27
 entering extended mode
 **document.tex document.tex
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.tex"
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\document.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
 croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
-vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
-an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
-romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
-sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
-senglishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\base\article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\base\size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -30,31 +31,39 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\graphics\graphic
+x.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\graphics\keyval.
+sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\graphics\graphic
+s.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\graphics\trig.st
+y
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\00miktex\graphic
+s.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\pdftex-def\pdfte
+x.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\generic\oberdiek\infwa
+rerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\generic\oberdiek\ltxcm
+ds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
@@ -62,19 +71,19 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\base\inputenc.st
+y
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+ (C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\base\utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\base\t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -224,7 +233,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\base\ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -254,8 +263,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 )
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\base\omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -279,19 +287,24 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\generic\babel\babel.st
+y
 Package: babel 2008/07/08 v3.8m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\00miktex\bblopts
+.cfg
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\ngermanb.ldf"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\generic\babel\ngermanb
+.ldf
 Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\generic\babel\babel.de
+f
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen105
@@ -299,7 +312,8 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \l@naustrian = a dialect from \language\l@ngerman 
 Package babel Info: Making " an active character on input line 92.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\amsfonts\amsfont
+s.sty
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \@emptytoks=\toks17
 \symAMSa=\mathgroup4
@@ -307,14 +321,17 @@ Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\hyperref\hyperre
+f.sty
 Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\generic\oberdiek\hobsu
+b-hyperref.sty
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\generic\oberdiek\hobsu
+b-generic.sty
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -355,24 +372,28 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\generic\ifxetex\ifxete
+x.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\oberdiek\kvoptio
+ns.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen106
 \Hy@linkcounter=\count89
 \Hy@pagecounter=\count90
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\hyperref\pd1enc.
+def
 File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count91
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\00miktex\hyperre
+f.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4062.
@@ -384,7 +405,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4300.
 \c@Hy@tempcnt=\count92
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\ltxmisc\url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
@@ -408,36 +429,45 @@ LaTeX Info: Redefining \pageref on input line 5847.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\hyperref\hpdftex
+.def
 File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
 \Fld@listcount=\count97
 \c@bookmark@seq@number=\count98
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\oberdiek\rerunfi
+lecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\ams\math\amsmath
+.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\ams\math\amstext
+.sty
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\ams\math\amsgen.
+sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks18
 \ex@=\dimen109
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\ams\math\amsbsy.
+sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen110
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\ams\math\amsopn.
+sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count99
@@ -478,29 +508,22 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\amsfonts\amssymb
+.sty
 Package: amssymb 2009/06/22 v3.00
-)
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.aux"
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\titelblatt.aux
-") ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\vorwort.aux
-") ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\abstract.au
-x")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\einleitung.aux
-")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\hauptteil.aux"
-)
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\schlusswort.au
-x") ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\glossar.au
-x")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\abkuerzungen.a
-ux")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\quellen.aux")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\anhang.aux")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\reflexion.aux"
-)
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\deklaration.au
-x"))
+) (C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\document.aux
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\titelblatt.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\vorwort.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\abstract.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\einleitung.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\hauptteil.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\schlusswort.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\glossar.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\abkuerzungen.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\quellen.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\anhang.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\reflexion.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\deklaration.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
@@ -515,39 +538,29 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count111
-\scratchdimen=\dimen118
-\scratchbox=\box28
-\nofMPsegments=\count112
-\nofMParguments=\count113
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count114
-\MPscratchDim=\dimen119
-\MPnumerator=\count115
-\makeMPintoPDFobject=\count116
-\everyMPtoPDFconversion=\toks24
-)
-\AtBeginShipoutBox=\box29
+\AtBeginShipoutBox=\box28
 Package hyperref Info: Link coloring OFF on input line 15.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\hyperref\nameref
+.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\generic\oberdiek\getti
+tlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count117
+\c@section@level=\count111
 )
 LaTeX Info: Redefining \ref on input line 15.
 LaTeX Info: Redefining \pageref on input line 15.
 LaTeX Info: Redefining \nameref on input line 15.
 
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.out")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.out")
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\document.out)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\document.out)
 \@outlinefile=\write3
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\titelblatt.tex
-" <titelbild.jpg, id=139, 127.76303pt x 85.17535pt>
+
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\titelblatt.tex
+<titelbild.jpg, id=151, 127.76303pt x 85.17535pt>
 File: titelbild.jpg Graphic file (type jpg)
  <use titelbild.jpg>
 Package pdftex.def Info: titelbild.jpg used on input line 19.
@@ -557,42 +570,41 @@ Package pdftex.def Info: titelbild.jpg used on input line 19.
 LaTeX Warning: Citation `titelbild' on page 1 undefined on input line 20.
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 33.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1
 
 
-{C:/Users/Claudia Saxer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/
-Users/Claudia Saxer/git/IDPA2012Amsterdam/IDPA2012_Document/titelbild.jpg>])
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.toc"p
-dfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
-een already used, duplicate ignored
+{C:/Users/Claudia/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/
+Claudia/git/IDPA2012Amsterdam/IDPA2012_Document/titelbild.jpg>])
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\document.tocpdfTeX wa
+rning (ext4): destination with the same identifier (name{page.1}) has been alre
+ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.25 ...t}{IX\hspace {1em}Schlusswort}{20}{part.9}
+l.26 ...mberline {14}Wiederaufbau}{20}{section.14}
                                                    [1
 
 ])
 \tf@toc=\write4
  [2]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\vorwort.tex")
-[3
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\vorwort.tex) [3
 
 ]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\abstract.tex")
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\abstract.tex)
 [4
 
 
-]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\einleitung.tex
-"
+] (C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\einleitung.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 32.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+
+(C:\Users\Claudia\.thumbnails\Downloads\Latex\miktex\tex\latex\base\omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -600,50 +612,122 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 ) [5
 
 
-]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\hauptteil.tex"
+] (C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\hauptteil.tex
 [6
 
 
-] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]) [19]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\schlusswort.te
-x") [20
+] [7] [8] [9] [10] [11] [12]
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\hauptteil/notfallplan
+/risikokarte.tex [13]
+Underfull \hbox (badness 2005) in paragraph at lines 81--85
+\OT1/cmr/m/n/10 Schalten Sie den ram-pen-zen-der [Ra-dio-sen-der f[]ur Ka-ta-st
+ro-
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 56--24
+
+ []
 
 
-]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\glossar.tex")
+Overfull \hbox (16.30542pt too wide) in paragraph at lines 56--24
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--24
+
+ []
+
+[14] [15] [16]
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\hauptteil/umfrage/umf
+rage.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--32
+
+ []
+
+) [17] [18] [19] [20]) [21]
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\schlusswort.tex)
+[22
+
+
+] (C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\glossar.tex)
 Overfull \hbox (2.75723pt too wide) in paragraph at lines 2--24
 []\OT1/cmr/m/n/10 Die im Glossar auf-gef[]uhrten Fach-be-grif-fe sind al-pha-be
 -tisch ge-ord-net. Das Glossar
  []
 
-[21
+[23
 
 
-]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\abkuerzungen.t
-ex") [22
+] (C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\abkuerzungen.tex) [
+24
 
 
-]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\quellen.tex"
+] (C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\quellen.tex
 No file document.bbl.
-) [23
-
-
-]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\anhang.tex")
-[24
-
-
-]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\reflexion.tex"
 ) [25
 
 
-]
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\deklaration.te
-x")
+] (C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\anhang.tex)
+[26
+
+
+] (C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\reflexion.tex)
+[27
+
+
+] (C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\deklaration.tex)
 Overfull \hbox (9.19614pt too wide) in paragraph at lines 5--29
 []\OT1/cmr/m/n/10 Hiermit er-kl[]aren wir, dass wir die vor-lie-gen-de in-ter-d
 is-zi-plin[]are Ar-beit selbstst[]andig
@@ -654,37 +738,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--29
 
  []
 
-[26
+[28
 
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
-
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\document.aux"
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\titelblatt.aux
-") ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\vorwort.aux
-") ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\abstract.au
-x")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\einleitung.aux
-")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\hauptteil.aux"
-)
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\schlusswort.au
-x") ("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\glossar.au
-x")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\abkuerzungen.a
-ux")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\quellen.aux")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\anhang.aux")
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\reflexion.aux"
-)
-("C:\Users\Claudia Saxer\git\IDPA2012Amsterdam\IDPA2012_Document\deklaration.au
-x"))
+ (C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\document.aux
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\titelblatt.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\vorwort.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\abstract.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\einleitung.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\hauptteil.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\schlusswort.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\glossar.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\abkuerzungen.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\quellen.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\anhang.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\reflexion.aux)
+(C:\Users\Claudia\git\IDPA2012Amsterdam\IDPA2012_Document\deklaration.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 31.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 0D9E36DA9270F431DAF7ABC8CF74C9C2;1848.
+(rerunfilecheck)             Checksum: 32D21FA4F6815E94D74A60F186757721;2039.
 
 
 LaTeX Warning: There were undefined references.
@@ -692,23 +768,25 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 31.
  ) 
 Here is how much of TeX's memory you used:
- 6440 strings out of 494045
- 94846 string characters out of 3145944
- 178338 words of memory out of 3000000
- 9520 multiletter control sequences out of 15000+200000
+ 6167 strings out of 494048
+ 92942 string characters out of 3139243
+ 177497 words of memory out of 3000000
+ 9231 multiletter control sequences out of 15000+200000
  9014 words of font info for 34 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 29i,4n,30p,513b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on document.pdf (27 pages, 430199 bytes).
+ 29i,9n,30p,513b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Claudia/.thumbnails/Downloads/Latex/miktex/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb><C:/Users/Claudia/.thumbnails/Downloads/Latex/miktex/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Claudia/.thumbnails/Downloads/Latex
+/miktex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Claudia/.thumbnail
+s/Downloads/Latex/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Cla
+udia/.thumbnails/Downloads/Latex/miktex/fonts/type1/public/amsfonts/cm/cmr12.pf
+b><C:/Users/Claudia/.thumbnails/Downloads/Latex/miktex/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb><C:/Users/Claudia/.thumbnails/Downloads/Latex/miktex/fonts/ty
+pe1/public/amsfonts/cm/cmti12.pfb>
+Output written on document.pdf (29 pages, 440522 bytes).
 PDF statistics:
- 333 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 500000)
- 278 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 357 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 302 words of extra memory for PDF output out of 10000 (max. 10000000)
 
