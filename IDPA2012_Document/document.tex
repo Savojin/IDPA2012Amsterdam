@@ -1,5 +1,4 @@
 \documentclass[10pt,a4paper]{article}
-
 \usepackage{graphicx}
 \usepackage[utf8]{inputenc} 
 \usepackage[ngerman]{babel} 
@@ -7,25 +6,26 @@
 \usepackage{hyperref}
 \usepackage{amsmath}
 \usepackage{amssymb} 
-
+\usepackage[numbers]{natbib}
 
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 \title{IDPA} 
 
-\begin{document}
-
+\begin{document} 
 \include{titelblatt}
 \tableofcontents  
 \include{vorwort}
 \include{abstract} 
-\include{einleitung}
+\include{einleitung} 
 \include{hauptteil} 
 \include{schlusswort}
 \include{glossar}
 \include{abkuerzungen}
-\include{quellen}
-\include{anhang} 
+\include{anhang}  
 \include{reflexion}
 \include{deklaration}
+
+\bibliographystyle{plain} 
+\bibliography{quellen}
 
 \end{document}
