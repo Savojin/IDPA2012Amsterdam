@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="C:/Users/Claudia Saxer/Downloads/adt-bundle-windows-x86_64/adt-bundle-windows-x86_64/sdk/platforms/android-17/android.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

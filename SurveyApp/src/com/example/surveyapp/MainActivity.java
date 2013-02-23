@@ -22,7 +22,12 @@ public class MainActivity extends Activity {
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
+		super.onCreate(savedInstanceState); 
+
+
+		setContentView(R.layout.activity_main);
+
+		System.out.println("main");
 		 q = new File(Environment.getExternalStorageDirectory()
 		 .getAbsolutePath()
 		 + File.separator
@@ -36,20 +41,12 @@ public class MainActivity extends Activity {
 		 d = new File(Environment.getExternalStorageDirectory()
 		 .getAbsolutePath() + File.separator + "SurveyApp");
 
-		setContentView(R.layout.activity_main);
-
-		System.out.println("main");
-
-
-
-
 		 createFile();
 		System.out.println("after create");
 		Question qu = new Question();
 		qu.setNumber(1);
 		qu.setQuestion("frage");
-		writeQuestion(qu);
-		 System.out.println(getQuestions());
+//		writeQuestion(qu);
 	}
 
 	@Override
@@ -101,7 +98,7 @@ public class MainActivity extends Activity {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
+		} 
 
 		return null;
 
